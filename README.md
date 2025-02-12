@@ -1,5 +1,7 @@
 # SMS Guard: Block Spam, Keep the Important!
 
+![Screenshot 2025-02-12 092441](https://github.com/user-attachments/assets/876bb864-24bc-4021-9f57-9ba33bf7b373)
+
 ## Working Link - https://sms-guard.streamlit.app/
 
 ## Project Overview
